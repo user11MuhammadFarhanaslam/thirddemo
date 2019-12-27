@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 gg
+=======
+working on remote repository
+>>>>>>> parent of 734a662... updated second.txt
+=======
+working on remote repository
+>>>>>>> parent of 734a662... updated second.txt
